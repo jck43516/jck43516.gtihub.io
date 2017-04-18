@@ -1,0 +1,10 @@
+section
+h1
+p
+h2
+a
+table
+tr
+td
+strong
+img
